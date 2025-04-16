@@ -56,6 +56,10 @@ FROM OPENROWSET(
 
  - Make sure to flatten or transform nested JSON structures when needed
 
+
+
+
+
 👤 Author
 Sefa Öztürk
 IT Trainee | Azure Data Engineer in progress
