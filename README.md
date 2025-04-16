@@ -36,8 +36,10 @@ This project demonstrates how to analyze data stored in **Azure Cosmos DB** usin
 
 👤 Author
 Sefa Öztürk
+
 IT Trainee | Azure Data Engineer in progress
-📇 LinkedIn: linkedin.com/in/sefa-ozturk1972
+
+📇 LinkedIn:(https://www.linkedin.com/in/sefa-ozturk1972)
 
 
 ## Sample Queries
