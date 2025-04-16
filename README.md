@@ -33,6 +33,14 @@ This project demonstrates how to analyze data stored in **Azure Cosmos DB** usin
 
 4. Alternatively, run the query in `sql/serverless_openrowset_query.sql` using Serverless SQL Pool
 
+## Notes
+
+ - No need for a separate ETL process – Synapse Link keeps Cosmos DB in sync
+
+ - You can explore and analyze data using either Spark or SQL
+
+ - Make sure to flatten or transform nested JSON structures when needed
+
 
 👤 Author
 Sefa Öztürk
@@ -58,12 +66,6 @@ FROM OPENROWSET(
     FORMAT='CSV'
 ) AS rows
 
-## Notes
- - No need for a separate ETL process – Synapse Link keeps Cosmos DB in sync
-
- - You can explore and analyze data using either Spark or SQL
-
- - Make sure to flatten or transform nested JSON structures when needed
 
 
 
