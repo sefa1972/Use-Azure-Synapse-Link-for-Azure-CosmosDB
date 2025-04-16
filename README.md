@@ -33,6 +33,13 @@ This project demonstrates how to analyze data stored in **Azure Cosmos DB** usin
 
 4. Alternatively, run the query in `sql/serverless_openrowset_query.sql` using Serverless SQL Pool
 
+
+👤 Author
+Sefa Öztürk
+IT Trainee | Azure Data Engineer in progress
+📇 LinkedIn: linkedin.com/in/sefa-ozturk1972
+
+
 ## Sample Queries
 
 ### Spark SQL
@@ -60,8 +67,5 @@ FROM OPENROWSET(
 
 
 
-👤 Author
-Sefa Öztürk
-IT Trainee | Azure Data Engineer in progress
-📇 LinkedIn: linkedin.com/in/sefa-ozturk1972
+
 
